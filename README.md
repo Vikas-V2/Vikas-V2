@@ -9,7 +9,7 @@ Hello There,👋
   I'm Vikas Yaduvanshi 
 </h1>
 
-- I'm currently working as a devloper/maintainer at [SuperiorOS](https://superioros.org/) , [RiceDroid](https://ricedroidoss.github.io) 
+- I'm currently working as a devloper/maintainer at [crdroidandroid](https://github.com/crdroidandroid)  [SuperiorOS](https://superioros.org/) , [RiceDroid](https://ricedroidoss.github.io) 
 - Device i'm using pixel 7, Nothing Phone1 (Spacewar), Oneplus 6(Enchilada) , Oneplus 6T (Fajita), 
 -I'M Doing all these in my free time as hobby :) 
 
