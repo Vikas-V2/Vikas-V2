@@ -6,7 +6,7 @@
 
 <h1 align="center">
 Hello There,👋
-  I'm Vikas Yaduvanshi 
+  I'm goku
 </h1>
 
 - I'm currently working as a devloper/maintainer at [crdroidandroid](https://github.com/crdroidandroid)  [SuperiorOS](https://superioros.org/) , [RiceDroid](https://ricedroidoss.github.io) 
